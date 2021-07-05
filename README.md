@@ -1,6 +1,7 @@
 banco de dados feito em mysql
 login: root
 senha: 123456
+
 Salvar produto
 Feito em método post
 exemplo de dados de post:
